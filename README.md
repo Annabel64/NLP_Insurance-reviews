@@ -1,5 +1,6 @@
 # NLP_Insurance-reviews
 
+Annabel MERCERON and Romain GIRODET
 
 The dataset contains information on reviews left by customers on an insurance product. Each row in the dataset includes a date, a note about the review, the author of the review, the text of the review, the insurer and the type of product.
 
